@@ -1,12 +1,12 @@
 # NYC Citibike Analysis
 
-Overview
+## Overview
 
 The purpose of this analysis is to see if the Citibike program of bike sharing in NYC could be used as a basis for a similar program in Des Moines, Iowa. To determine if this would be a good investment for the city of Des Moines, the data for August 2019 NYC Citibike rides was cleaned and then analyzed and visualized in Tableau. This data covers multiple points such as ride durations, bike station locations, type and genders of users, among others.
 
-Link to Tableau Story:
+## Link to Tableau Story:
 
-Results of the NYC Citibike Analysis
+## Results of the NYC Citibike Analysis
 
 1.	Number of Rides 
 The total number of Citibike rides in August 2019 was 2,344,224 rides. Info regarding population and visitation of NYC and the Citibike program was also obtained. 
@@ -46,7 +46,7 @@ When the usertype filter is applied to the station locations maps, the trend rem
 
 
 
-Summary
+## Summary
 
 There are a few key takeaways from this analysis. First is that the vast majority of bike users are subscribers. Additionally, males use the bikes significantly more than other genders. Secondly, ride durations are usually short, less than an hour, and mainly occur during daytime and evening hours. Gender does not appear to influence ride times but user type does show influence over what time of day the rides are being taken. Lastly, the bike rides are heavily concentrated within Manhattan, specifically south of Central Park. Based on these factors, I believe it would be fair to assume that the majority of rides are taken by male subscribers within Manhattan during rush hours.
 
