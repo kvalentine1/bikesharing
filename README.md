@@ -4,7 +4,8 @@
 
 The purpose of this analysis is to see if the Citibike program of bike sharing in NYC could be used as a basis for a similar program in Des Moines, Iowa. To determine if this would be a good investment for the city of Des Moines, the data for August 2019 NYC Citibike rides was cleaned and then analyzed and visualized in Tableau. This data covers multiple points such as ride durations, bike station locations, type and genders of users, among others.
 
-## Link to Tableau Story: [link to dashboard](https://public.tableau.com/views/Book3_16562620049500/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Link to Tableau Story: 
+[NYC Citibike Analysis Dashboard](https://public.tableau.com/views/Book3_16562620049500/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Results of the NYC Citibike Analysis
 
